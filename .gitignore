@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies and tooling
+node_modules/
+package-lock.json
+
+# Local environment and logs
+.env
+*.log
+
+# Build output
+dist/
+build/
